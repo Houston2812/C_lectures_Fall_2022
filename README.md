@@ -13,7 +13,7 @@ Presentations:
 * [Lab 4](https://docs.google.com/presentation/d/1CuFeb1et3CnCKhexL884939sA4ugKnLAfXQHpT6QF1o/edit?usp=sharing)
 * [Lab 5](https://docs.google.com/presentation/d/16rOrfSuZ8Es2kAfCiexTek466ukGxou8_Hg9mfa98FQ/edit?usp=sharing)
   
-By Huseyn Gambarov
-Baku, Azerbaijan
+By Huseyn Gambarov  
+Baku, Azerbaijan  
 2022
  
