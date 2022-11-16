@@ -18,6 +18,7 @@ Presentations:
 * [Lab 8](https://docs.google.com/presentation/d/12jpjo3h5nXsCGpLHXI_K64LhFe6CZMiDVlt3nHElsSE/edit?usp=sharing)  
 * [Lab 9](https://docs.google.com/presentation/d/13Bi30a64H4w-9-jSdQLZ5LQEy3yjy-cejFCO1gG490I/edit?usp=sharing)  
 * [Lab 10](https://docs.google.com/presentation/d/1PvR0eJjXf-tVXptleKjdlSdsXw8ZtkPexMin3LwcHSc/edit?usp=sharing)  
+* [Lab 11](https://docs.google.com/presentation/d/1-rH6Cg750EO3KAzuAqC0bh1p_vwDX4JVsMivZ7QA5Yo/edit?usp=sharing)  
 By Huseyn Gambarov  
 Baku, Azerbaijan  
 2022
