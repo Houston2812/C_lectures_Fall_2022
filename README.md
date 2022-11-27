@@ -14,7 +14,7 @@ Following topics are covered:
 * Lab 11 - structs in C
 * Lab 12 - dynamic memory management in C
 
-Each of the folders contains supplementary material for the labaratory sessions:  
+Each of the folders contains supplementary material for the laboratory sessions:  
 * Lab1_Hello_World - initial familiarization with C
 * Lab2_Variables - introduction to the variable types in C
 * Lab3_Conditionals - information about the conditional statements and their usage
