@@ -1,12 +1,28 @@
 Lab materials for the C programming Language lessons in BHOS  
 
+Following topics are covered:  
+* Lab 1 - familiarization with C  
+* Lab 2 - variables and types in C
+* Lab 3 - conditional statements in C
+* Lab 4 - loops in C
+* Lab 5 - pointers in C
+* Lab 6 - functions in C
+* Lab 7 - one dimentional arrays in C
+* Lab 8 - two dimentional arrays in C
+* Lab 9 - strings in C
+* Lab 10 - sorting functions in C
+* Lab 11 - structs in C
+* Lab 12 - dynamic memory management in C
+
 Each of the folders contains supplementary material for the labaratory sessions:  
 * Lab1_Hello_World - initial familiarization with C
 * Lab2_Variables - introduction to the variable types in C
 * Lab3_Conditionals - information about the conditional statements and their usage
 * Lab4_Loops - information about the loop in C
 * Lab5_Pointers - information about the pointers and type casting
-* Lab8_Strings - information about the strings and string functions  
+* Lab9_Strings - information about the strings and string functions  
+* Lab11_Structs - examples on the tasks iwth the structs
+* Lab12_DMM - information and comparison of DMM functions 
 
 Presentations:
 * [Lab 2](https://docs.google.com/presentation/d/1kjNFSwHXdv8RUNejuMxrf_I13FcDpkWO9uyU4aTOyvE/edit?usp=sharing)
